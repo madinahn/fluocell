@@ -2,6 +2,7 @@
  * Fluocell Java interface
  * 
  */
+//Not sure if source code changed; I only resized the interace as of right now -Katherine Lowe
 package my.fluocell;
 import java.awt.Font;
 import java.io.File;
